@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h> // ESP8266 kütüphanesi dahil ediliyor
 
-const char* ssid = "RANCHU-0718";  // İnternet Ağının ismi
-const char* password = "71s3L1-6"; // internet ağının şifresi
+const char* ssid = "...";  // İnternet Ağının ismi
+const char* password = "...."; // internet ağının şifresi
 int RolePin1 = D0; // D0 pini RolePin1 ile eşleştiriliyor
 int RolePin2 = D1; // D1 pini RolePin2 ile eşleştiriliyor
 int RolePin3 = D2; // D2 pini RolePin3 ile eşleştiriliyor
